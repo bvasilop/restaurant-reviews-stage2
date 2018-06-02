@@ -7,7 +7,7 @@ let filesToCache = [
 	'/',
 	'/index.html',
 	'/restaurant.html',
-	'/css/styles.css',
+	'/styles/styles.css',
     '/js/main.js',
     '/js/dbhelper.js',
 	'/js/restaurant_info.js',
